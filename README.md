@@ -1,6 +1,6 @@
 ### Hi there 👋 Am Emmanuel ID
 
-I Am A Software Developer who works mostly on Mobile Apps and All things Mobile related. 
+I am a Software Developer who works mostly on Mobile Apps and All things Mobile related. 
 
 I enjoy working in teams, pubilc speaking,  techpreneurship, Investments and Stocks market(probably any way to make money work for me), pair programming and collaborating with other developers on innovative solutions. You'll mainly find me poking around open-source projects, opening issues, Looking for startups to inverst in, try to learn something new everyday and Looking for **Books to Read and Investments to venture into** 🔥🚀
 
