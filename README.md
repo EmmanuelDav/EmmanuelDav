@@ -13,5 +13,5 @@ When I'm not slaping my keyboard to make magic happen, I devote my time to speak
 * ⚡ Fun fact: I have a very high sense of hearing 😆
 * 👋 connect with me on [Twitter](https://twitter.com/EmmanuelDav_K)
 * 👋 follow me on [Instagram](https://www.instagram.com/emmanueldav_k/)
-* 👋 connect me on [Linkedin](www.linkedin.com/emmanueldavk)
+* 👋 connect me on [Linkedin](https://www.linkedin.com/emmanueldavk)
 
