@@ -2,7 +2,7 @@
 
 I am a Software Developer who works mostly on Mobile Apps and All things Mobile related. 
 
-I enjoy working in teams, pubilc speaking,  techpreneurship, Investments and Stocks market(probably any way to make money work for me), pair programming and collaborating with other developers on innovative solutions. You'll mainly find me poking around open-source projects, opening issues, Looking for startups to inverst in, try to learn something new everyday and Looking for *Books to Read and Investments to venture into* 🔥🚀
+I enjoy working in teams, pubilc speaking, enterprenuership, Investments and Inverstment, pair programming and collaborating with other developers on innovative solutions. You'll mainly find me poking around open-source projects, opening issues, playing with blockchain technology, Looking for startups to inverst in, try to learn something new everyday and Looking for *Books to Read and Latest Satartup to brag about* 🔥🚀
 
 When I'm not slaping my keyboard to make magic happen, I devote my time to speaking, mentoring and encouraging other upcoming software developers and techpreneur 🤗
 
