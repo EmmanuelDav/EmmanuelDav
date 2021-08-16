@@ -1,4 +1,4 @@
-### Hi there 👋 Am Emmanuel ID
+### Hi there 👋 Am Iyke Emmanuel
 
 I am a Software Developer who works mostly on Mobile Apps and All things Mobile related. 
 
