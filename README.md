@@ -59,6 +59,6 @@
 </div>
 
 ### :fire: Status :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?https://github.com/EmmanuelDav&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?github.com/EmmanuelDav&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
