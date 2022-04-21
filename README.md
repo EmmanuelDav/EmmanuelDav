@@ -14,7 +14,7 @@
   </a>
 </div>
   
-  <img src="https://komarev.com/ghpvc/?emmanueldav&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?Emmanueldav&style=flat-square&color=blue" alt=""/>
 
 </div>
 
