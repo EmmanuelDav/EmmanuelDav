@@ -29,7 +29,7 @@
 
   ---
 
-### :Technical Trainer | Content Writer: About Me :
+### :Android Dev || Technical Trainer || Content Writer: About Me :
   
   I am a Native || Cross-platform App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
@@ -41,6 +41,6 @@
   
   - :zap: In my extra free time, I solve issues on Open-source and read tech articles.
  
-  - :mailbox:  How to reach me: [![Twitter Badge](https://img.shields.io/badge/-IYKE EMMANUEL-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelDav_K)
+  - :mailbox:  How to reach me: [![Twitter Badge](https://img.shields.io/badge/-IYKE-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelDav_K)
 
 
