@@ -14,7 +14,7 @@
   </a>
 </div>
   
-<img src="https://komarev.com/ghpvc/?Emmanueldav&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?user=Emmanueldav&style=flat-square&color=blue" alt=""/>
   
   <h1>
   hey there
@@ -58,7 +58,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: Status :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?github.com/EmmanuelDav&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmmanuelDav&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
