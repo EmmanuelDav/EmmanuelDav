@@ -25,7 +25,8 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  
+</div>
+
   ---
 
 ### :Technical Trainer | Content Writer: About Me :
@@ -42,6 +43,4 @@
  
   - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelDav_K)
 
-
-</div>
 
