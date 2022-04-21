@@ -14,7 +14,7 @@
   </a>
 </div>
   
-<img src="https://komarev.com/ghpvc/?user=Emmanueldav&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Emmanueldav&style=flat-square&color=blue" alt=""/>
   
   <h1>
   hey there
@@ -60,5 +60,8 @@
 
 ### :fire: Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmmanuelDav)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueldav)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
