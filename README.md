@@ -33,7 +33,7 @@
   
   I am a Native || Cross-platform App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
-  - :telescope: I’m working as a Software Engineer and contributing to Native and Cross-platform for building Mobile applications.
+  - :telescope: I’m working as a Software Engineer and Contributing to Both Native and Cross-platform for Mobile Development.
 
   - :seedling: Exploring Flutter and its wonders.
 
@@ -41,6 +41,6 @@
   
   - :zap: In my extra free time, I solve issues on Open-source and read tech articles.
  
-  - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelDav_K)
+  - :mailbox:  How to reach me: [![Twitter Badge](https://img.shields.io/badge/-IYKE EMMANUEL-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelDav_K)
 
 
