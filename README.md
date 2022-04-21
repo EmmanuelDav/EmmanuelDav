@@ -58,4 +58,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 
+### :fire: Status :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?emmanueldav&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
