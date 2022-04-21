@@ -15,6 +15,33 @@
 </div>
   
 <img src="https://komarev.com/ghpvc/?Emmanueldav&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+  
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+  
+  ---
+
+### :Technical Trainer | Content Writer: About Me :
+  
+  I am a Native || Cross-platform App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  
+  - :telescope: I’m working as a Software Engineer and contributing to Native and Cross-platform for building Mobile applications.
+
+  - :seedling: Exploring Flutter and its wonders.
+
+  - :zap: In my free time, I push out contents that can help tech newbies have an easy beginning in tech.
+  
+  - :zap: In my extra free time, I solve issues on Open-source and read tech articles.
+ 
+  - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelDav_K)
+
 
 </div>
 
