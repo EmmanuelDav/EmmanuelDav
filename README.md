@@ -7,9 +7,9 @@ I enjoy working in teams, pubilc speaking, enterprenuership, Investments and Inv
 When I'm not slaping my keyboard to make magic happen, I devote my time to speaking, mentoring and encouraging other upcoming software developers and techpreneur 🤗
 
 * 😄 Pronouns: he/him.
-* 🌱 I’m currently learning Backend with Python
+* 🌱 I’m currently learning Flutter with Dart
 * 👯 I’m looking to collaborate on more open source projects.
-* 💬 Ask me about Kotlin, Java, Go, Android Dev, Flutter Dev, Open source, Public speaking, entrepreneurship and Dev Communities
+* 💬 Ask me about Kotlin, Dart, Android Dev, Flutter Dev, Open source, Public speaking, entrepreneurship and Dev Communities
 * 👋 connect with me on [Twitter](https://twitter.com/EmmanuelDav_K)
 * 👋 follow me on [Instagram](https://www.instagram.com/emmanueldav_k/)
 * 👋 connect me on [Linkedin](https://www.linkedin.com/in/emmanueldavk)
