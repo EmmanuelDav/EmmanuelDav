@@ -29,7 +29,7 @@
 
   ---
 
-### Android Dev || Technical Trainer || Content Writer: About Me :
+### Flutter Dev || Technical Trainer || Content Writer || Android Dev: About Me :
   
   I am a Native || Cross-platform App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
