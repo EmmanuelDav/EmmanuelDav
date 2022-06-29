@@ -31,7 +31,7 @@
   
   - :telescope: I’m working as a Software Engineer and Contributing to Both Native and Cross-platform for Mobile Development.
 
-  - :seedling: Exploring Flutter and its wonders.
+  - :seedling: Exploring Jetpackcompose.
 
   - :zap: In my free time, I push out contents that can help tech newbies have an easy beginning in tech.
   
@@ -55,8 +55,8 @@
 </div>
 
 ### :fire: Stats :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emmanueldav&theme=dark&background=000000)](https://git.io/streak-stats)
- -->
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emmanueldav&theme=tokyonight)](https://git.io/streak-stats)
+ 
 <a href="https://github.com/fatimazza">
   <img alt="Iykes's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanueldav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
