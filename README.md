@@ -24,19 +24,24 @@
 </div>
 
   ---
+<h3> 👨🏻‍💻 About Me </h3>
 
-### Flutter Dev || Technical Trainer || Content Writer || Android Dev: About Me :
-  
-  I am a Native || Cross-platform App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  
-  - :telescope: I’m working as a Software Engineer and Contributing to Both Native and Cross-platform for Mobile Development.
+- 🔭 &nbsp; I’m a clever Mobile Engineer
+- 🤔 &nbsp; Building solutions for mobile using cutting edge technologies.
+- 💼 &nbsp; Building beautiful mobile UIs with XML, Jetpack Compose and Dart.
+- 🌱 &nbsp; Enthusiast in Design and Cloud Ops .
 
-  - :seedling: Exploring Jetpackcompose.
 
-  - :zap: In my free time, I push out contents that can help tech newbies have an easy beginning in tech.
-  
-  - :zap: In my extra free time, I solve issues on Open source and read tech articles.
- 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Dart | Java | Kotlin 
+- 🌐 &nbsp; Android | flutter  
+- 🛢 &nbsp; GraphQl | Firebase 
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd | Figma
+
+<br>
+
   - :mailbox:  How to reach me: [![Twitter Badge](https://img.shields.io/badge/-IYKE-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelDav_K)
 
 ### :hammer_and_wrench: Languages and Tools :
