@@ -29,7 +29,7 @@
 - 🔭 &nbsp; I’m a clever Mobile Engineer
 - 🤔 &nbsp; Building solutions for mobile using cutting edge technologies.
 - 💼 &nbsp; Building beautiful mobile UIs with XML, Jetpack Compose and Dart.
-- 🌱 &nbsp; Enthusiast in Design and Cloud Ops .
+- 🌱 &nbsp; Enthusiast in Design and Web3.
 
 
 <h3>🛠 Tech Stack</h3>
@@ -41,7 +41,6 @@
 - 🖥 &nbsp; Adobe Xd | Figma
 
 <br>
-
   - :mailbox:  How to reach me: [![Twitter Badge](https://img.shields.io/badge/-IYKE-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelDav_K)
 
 ### :hammer_and_wrench: Languages and Tools :
