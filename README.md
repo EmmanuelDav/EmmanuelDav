@@ -43,6 +43,12 @@
 <br>
 
   - :mailbox:  How to reach me: [![Twitter Badge](https://img.shields.io/badge/-IYKE-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelDav_K)
+  
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Fetching Api with jetpack Compose](https://medium.com/@emmanueldav/fetching-data-from-api-in-jetpack-compose-5598fa55428d)
+- [Future of Kotlin multiplatform](https://medium.com/@emmanueldav/the-future-with-kotlin-multiplatform-6e2eec6abda)
+<!-- BLOG-POST-LIST:END -->
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -67,6 +73,3 @@
   <img alt="Iykes's all Git commits" height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanueldav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueldav&langs_count=4&hide=javascript&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
