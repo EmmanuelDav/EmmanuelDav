@@ -46,6 +46,8 @@
   
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+
+- [Unlock Your Full Potentials In Tech by Contributing to Opensource](https://emmanueldav.medium.com/unlock-your-full-potentials-in-tech-by-contributing-to-open-source-2a663bd4381d)
 - [Fetching Api with jetpack Compose](https://medium.com/@emmanueldav/fetching-data-from-api-in-jetpack-compose-5598fa55428d)
 - [Future of Kotlin multiplatform](https://medium.com/@emmanueldav/the-future-with-kotlin-multiplatform-6e2eec6abda)
 - [Tips and Tricks that will imporove your Android development skill](https://medium.com/@emmanueldav/tips-and-tricks-that-would-improve-your-skills-as-an-android-developer-7e2e81351877)
