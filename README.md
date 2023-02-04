@@ -28,9 +28,6 @@ I am always seeking new challenges and opportunities to grow as a developer. If 
 <a href="#iyke-title">
   <img src="https://github.com/EmmanuelDav/github-stats-transparent/blob/output/generated/overview.svg" alt="iyke" align="right" />
 </a>
-<br/> <a href="#iyke-title">
-  <img src="https://github.com/EmmanuelDav/github-stats-transparent/blob/output/generated/languages.svg" alt="iyke" align="left" />
-</a>
 
 <br/> ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
