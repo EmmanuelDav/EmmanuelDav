@@ -99,7 +99,7 @@
       <a href="#iyke-tech" >
         <img src="./img/appium.png" width="48" height="48" alt="appium" />
       </a>
-      <br>Appium Flutter
+      <br>Appium
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
