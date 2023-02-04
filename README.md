@@ -91,9 +91,9 @@
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src=".img/jetpack.png" width="48" height="48" alt="JetPack" />
       </a>
-      <br>JavaScript
+      <br>Jetpack compose
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech" >
