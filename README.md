@@ -91,7 +91,7 @@
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
-        <img src=".img/jetpack.png" width="48" height="48" alt="JetPack" />
+        <img src="./img/jetpack.png" width="48" height="48" alt="JetPack" />
       </a>
       <br>Jetpack compose
     </td>
@@ -141,9 +141,9 @@
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="https://github.com/EmmanuelDav/README_icons/blob/main/language_and_tools/square/tensorflow/tensorflow.svg" width="48" height="48" alt="tensorflow" />
       </a>
-      <br>Powershell
+      <br>Tensorflow
     </td>
     <td align="center"  width="96">
       <a href="#iyke-tech">
