@@ -18,9 +18,6 @@
  
 
   
-<!--   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
 </div>
 
   ---
@@ -31,18 +28,6 @@
 - 💼 &nbsp; Building beautiful mobile UIs with XML, Jetpack Compose and Dart.
 - 🌱 &nbsp; Enthusiast in Design and Web3.
 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Dart | Java | Kotlin 
-- 🌐 &nbsp; Android | flutter  
-- 🛢 &nbsp; GraphQl | Firebase 
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Figma
-
-<br>
-
-  - :mailbox:  How to reach me: [![Twitter Badge](https://img.shields.io/badge/-IYKE-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EmmanuelDav_K)
   
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -52,6 +37,10 @@
 - [Future of Kotlin multiplatform](https://medium.com/@emmanueldav/the-future-with-kotlin-multiplatform-6e2eec6abda)
 - [Tips and Tricks that will imporove your Android development skill](https://medium.com/@emmanueldav/tips-and-tricks-that-would-improve-your-skills-as-an-android-developer-7e2e81351877)
 <!-- BLOG-POST-LIST:END -->
+
+<a href="#emmanueldav-title">
+  <img src="https://raw.githubusercontent.com/EmmanuelDav/github-stats-transparent/output/generated/overview.svg" alt="EmmanuelDav" align="right" />
+</a>
 
 <h2 align="left" id="iyke-tech">Favorite Tech</h2>
 
