@@ -97,9 +97,9 @@
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech" >
-        <img src="./img/appium.png" width="48" height="48" alt="appium" />
+        <img src="https://github.com/EmmanuelDav/README_icons/blob/main/language_and_tools/square/git-scm/git-scm.svg" width="48" height="48" alt="git" />
       </a>
-      <br>Appium
+      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
