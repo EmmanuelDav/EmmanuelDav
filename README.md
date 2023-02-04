@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  
 <div id="badges">
   <a href="https://www.linkedin.com/in/emmanueldav/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,18 +14,18 @@
 </div>
   
 <img src="https://komarev.com/ghpvc/?username=Emmanueldav&style=flat-square&color=blue" alt=""/>
- 
-
-  
 </div>
 
   ---
+  
 <h3> 👨🏻‍💻 About Me </h3>
+Hi, i'm [Iyke Emmanuel](https://emmanueldav.github.io/), a passionate self-taught mobile developer and a freelance from <b>Nigeria</b>. i'm skilled in creating high-quality, user-friendly apps. With experience in Flutter, Jetpack Compose, and native Android development, I am confident in my ability to deliver robust, scalable, and High performing mobile applications.
 
-- 🔭 &nbsp; I’m a clever Mobile Engineer
-- 🤔 &nbsp; Building solutions for mobile using cutting edge technologies.
-- 💼 &nbsp; Building beautiful mobile UIs with XML, Jetpack Compose and Dart.
-- 🌱 &nbsp; Enthusiast in Design and Web3.
+<br/> I have a solid understanding of app architecture patterns, design principles, and software development best praticeses. I take pride in writing clean, readable, and maintainable code that meets the needs of users and other fellow developers. I am also an open-source enthusiast and maintainer. I learnt a lot from the open-source community and I love how collaboration and knowledge sharing is encouraged in opensource.
+
+I am always seeking new challenges and opportunities to grow as a developer. If you're looking for a talented and driven mobile developer, I would be happy to discuss how I can contribute to your next project."
+
+
 
   
 ### 📕 Latest Blog Posts
