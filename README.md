@@ -97,21 +97,21 @@
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./img/appium.png" width="48" height="48" alt="appium" />
       </a>
-      <br>React
+      <br>Appium Flutter
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/espresso.png" width="48" height="48" alt="espresso" />
       </a>
-      <br>Bootstrap
+      <br>Espresso
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/mockito.png" width="48" height="48" alt="mockito" />
       </a>
-      <br>Sass
+      <br>Mockito 
     </td>
   </tr>
   <tr>
@@ -147,27 +147,27 @@
     </td>
     <td align="center"  width="96">
       <a href="#iyke-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/playstore.png" width="48" height="48" alt="Google Play" />
       </a>
-      <br>MySQL
+      <br>Google Play
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="img/googleana.png" width="48" height="48" alt="google analytics" />
       </a>
-      <br>Grafana
+      <br>Google Analytics
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="./img/jira.png" width="48" height="48" alt="Jira" />
       </a>
-      <br>Prometheus
+      <br>Jira
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="./img/appstore.png" width="48" height="48" alt="Appstore" />
       </a>
-      <br>Thanos
+      <br>App store
     </td>
   </tr>
 </table>
