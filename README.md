@@ -73,21 +73,21 @@
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
-        <img src="https://github.com/EmmanuelDav/README_icons/blob/main/language_and_tools/square/figma/figma.svg" width="48" height="48" alt="Figma" />
+        <img src="https://github.com/EmmanuelDav/README_icons/blob/main/language_and_tools/square/material-ui/material-ui.svg" width="48" height="48" alt="material ui" />
+      </a>
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
+      <a href="#iyke-tech">
+        <img src="https://github.com/EmmanuelDav/README_icons/blob/main/language_and_tools/square/firebase/firebase.svg" width="48" height="48" alt="firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#iyke-tech">
+        <img src="https://github.com/EmmanuelDav/README_icons/blob/main/language_and_tools/square/figma/figma.svg" width="48" height="48" alt="Figma"  />
       </a>
       <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#iyke-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#iyke-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
@@ -129,15 +129,15 @@
     </td>
     <td align="center"  width="96">
       <a href="#iyke-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://github.com/EmmanuelDav/README_icons/blob/main/language_and_tools/square/java/java.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Debian
+      <br>Java
     </td>
     <td align="center"  width="96">
       <a href="#iyke-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="https://github.com/EmmanuelDav/README_icons/blob/main/language_and_tools/square/python/python.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>RHEL
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
