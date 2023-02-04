@@ -25,7 +25,12 @@ Hi, i'm Iyke Emmanuel, a passionate self-taught mobile developer and a freelance
 
 I am always seeking new challenges and opportunities to grow as a developer. If you're looking for a talented and driven mobile developer, I would be happy to discuss how I can contribute to your next project."
 
-
+<a href="#iyke-title">
+  <img src="https://github.com/EmmanuelDav/github-stats-transparent/blob/output/generated/overview.svg" alt="iyke" align="right" />
+</a>
+<br/> <a href="#iyke-title">
+  <img src="https://github.com/EmmanuelDav/github-stats-transparent/blob/output/generated/languages.svg" alt="iyke" align="left" />
+</a>
 
 <br/> ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -35,12 +40,9 @@ I am always seeking new challenges and opportunities to grow as a developer. If 
 - [Tips and Tricks that will imporove your Android development skill](https://medium.com/@emmanueldav/tips-and-tricks-that-would-improve-your-skills-as-an-android-developer-7e2e81351877)
 <!-- BLOG-POST-LIST:END -->
   </p>
-  
 
 <h2 align="left" id="iyke-tech">Favorite Tech</h2>
-
 > Tools, languages, and other things that I like to work with.
-
 <table>
   <tr>
     <td align="center" width="96">
