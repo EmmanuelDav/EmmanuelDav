@@ -73,9 +73,9 @@
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/EmmanuelDav/README_icons/blob/main/language_and_tools/square/figma/figma.svg" width="48" height="48" alt="Figma" />
       </a>
-      <br>Go
+      <br>Figma
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech">
@@ -123,7 +123,7 @@
     </td>
     <td align="center" width="96">
       <a href="#iyke-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/Dart-icon-color.svg" width="48" height="48" alt="Dart" />
+        <img src="https://github.com/EmmanuelDav/README_icons/blob/main/language_and_tools/square/dart/dart.svg" width="48" height="48" alt="Dart" />
       </a>
       <br>Dart
     </td>
