@@ -19,7 +19,7 @@
   ---
   
 <h3> 👨🏻‍💻 About Me </h3>
-Hi, i'm [Iyke Emmanuel](https://emmanueldav.github.io/), a passionate self-taught mobile developer and a freelance from <b>Nigeria</b>. i'm skilled in creating high-quality, user-friendly apps. With experience in Flutter, Jetpack Compose, and native Android development, I am confident in my ability to deliver robust, scalable, and High performing mobile applications.
+Hi, i'm Iyke Emmanuel, a passionate self-taught mobile developer and a freelance from <b>Nigeria</b>. i'm skilled in creating high-quality, user-friendly apps. With experience in Flutter, Jetpack Compose, and native Android development, I am confident in my ability to deliver robust, scalable, and High performing mobile applications.
 
 <br/> I have a solid understanding of app architecture patterns, design principles, and software development best praticeses. I take pride in writing clean, readable, and maintainable code that meets the needs of users and other fellow developers. I am also an open-source enthusiast and maintainer. I learnt a lot from the open-source community and I love how collaboration and knowledge sharing is encouraged in opensource.
 
@@ -27,19 +27,15 @@ I am always seeking new challenges and opportunities to grow as a developer. If 
 
 
 
-  
-### 📕 Latest Blog Posts
+<br/> ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
 - [Unlock Your Full Potentials In Tech by Contributing to Opensource](https://emmanueldav.medium.com/unlock-your-full-potentials-in-tech-by-contributing-to-open-source-2a663bd4381d)
 - [Fetching Api with jetpack Compose](https://medium.com/@emmanueldav/fetching-data-from-api-in-jetpack-compose-5598fa55428d)
 - [Future of Kotlin multiplatform](https://medium.com/@emmanueldav/the-future-with-kotlin-multiplatform-6e2eec6abda)
 - [Tips and Tricks that will imporove your Android development skill](https://medium.com/@emmanueldav/tips-and-tricks-that-would-improve-your-skills-as-an-android-developer-7e2e81351877)
 <!-- BLOG-POST-LIST:END -->
-
-<a href="#emmanueldav-title">
-  <img src="https://raw.githubusercontent.com/EmmanuelDav/github-stats-transparent/output/generated/overview.svg" alt="EmmanuelDav" align="right" />
-</a>
+  </p>
+  
 
 <h2 align="left" id="iyke-tech">Favorite Tech</h2>
 
