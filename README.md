@@ -19,9 +19,9 @@
   ---
   
 <h3> 👨🏻‍💻 About Me </h3>
-Hi, i'm Iyke Emmanuel, a passionate self-taught mobile developer and a freelance from <b>Nigeria</b>. i'm skilled in creating high-quality, user-friendly apps. With experience in Flutter, Jetpack Compose, and native Android development, I am confident in my ability to deliver robust, scalable, and High performing mobile applications.
+Hi, i'm Iyke Emmanuel, a sodtware developer and a freelance from <b>Nigeria</b>. i'm skilled in creating high-quality, user-friendly apps and websites. With experience in Flutter, Jetpack Compose, native Android development, and recently the Django framework, I am confident in my ability to deliver robust, scalable, and high-performing software applications.
 
-<br/> I have a solid understanding of app architecture patterns, design principles, and software development best praticeses. I take pride in writing clean, readable, and maintainable code that meets the needs of users and other fellow developers. I am also an open-source enthusiast and maintainer. I learnt a lot from the open-source community and I love how collaboration and knowledge sharing is encouraged in opensource.
+<br/> I have a solid understanding of app architecture patterns, design principles, and software development best practices. I take pride in writing clean, readable, and maintainable code that meets the needs of users and other fellow developers. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing is encouraged in opensource.
 
 I am always seeking new challenges and opportunities to grow as a developer. If you're looking for a talented and driven mobile developer, I would be happy to discuss how I can contribute to your next project."
 
