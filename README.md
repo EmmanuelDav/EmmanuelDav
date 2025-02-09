@@ -19,7 +19,7 @@
   ---
   
 <h3> 👨🏻‍💻 About Me </h3>
-Hi, I'm Iyke Emmanuel, a software developer and a freelance from <b>Nigeria</b>. I'm skilled in creating high-quality, user-friendly apps and websites. With experience in Flutter, Jetpack Compose, native Android development, and recently the Django framework, I am confident in delivering robust, scalable, and high-performing software applications.
+Hi, I'm Iyke Emmanuel, a software developer and a freelance from <b>Nigeria</b>. I'm skilled in creating high-quality, user-friendly apps and websites. With experience in Flutter, Jetpack Compose, native Android development, and recently the Springboot framework, I am confident in delivering robust, scalable, and high-performing software applications.
 
 <a href="#iyke-title">
   <img src="https://github.com/EmmanuelDav/github-stats-transparent/blob/output/generated/overview.svg" alt="iyke" align="right" />
